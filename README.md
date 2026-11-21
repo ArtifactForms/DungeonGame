@@ -1,5 +1,9 @@
 # Dungeon Game
 
+![Project Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Java](https://img.shields.io/badge/Java-22-blue)
+![License](https://img.shields.io/badge/License-TBD-lightgrey)
+
 **Working Title: Blood, Fire and Wrath**
 
 **A small collaborative dungeon action game built with Java and MeshLibCore.**
